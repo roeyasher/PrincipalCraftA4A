@@ -18,4 +18,4 @@ This solution contains 2 sub-projects:
 4. create user for the flink app and the spring app (update the creds in the application.properties file)
 5. run each project
 
-* Unfortunately, I didn't have enghout time to dockerize the stack. Sorry for the manual installation.
+* Unfortunately, I didn't have enough time to dockerize the stack.
